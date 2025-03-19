@@ -98,3 +98,4 @@ galleryContainer.addEventListener('click', event => {
 
   instance.show();
 });
+
